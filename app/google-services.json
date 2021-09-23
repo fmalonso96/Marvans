@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460666006778",
+    "project_id": "marvans-challenge",
+    "storage_bucket": "marvans-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460666006778:android:cfa1b4e2887522f394ed43",
+        "android_client_info": {
+          "package_name": "com.example.marvans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460666006778-se2b31ae87lrct0b4cdhdmqm05441i15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaytNHGq-wyXeP07TuiAGoUX8GqsOietw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460666006778-se2b31ae87lrct0b4cdhdmqm05441i15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
